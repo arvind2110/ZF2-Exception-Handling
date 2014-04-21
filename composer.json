@@ -1,0 +1,27 @@
+{
+    "name": "arvind2110/ZF2-Exception-Handling",
+    "description": "ZF2-Exception-Handling is very simple ZF2 module for handling ZF2 exceptions.",
+    "type": "library",
+    "keywords": [
+        "zf2",
+        "Exception",
+        "Exception Handling",
+        "ZF2 Exception Handling"
+    ],
+    "homepage": "https://github.com/arvind2110/ZF2-Exception-Handling",
+    "authors": [
+        {
+            "name": "Arvind Singh",
+            "email": "arvind.singh.2110@gmail.com",
+            "homepage": "http://programming-tips.in"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
